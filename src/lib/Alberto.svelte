@@ -11,7 +11,7 @@
   </script>
   
   <div class="contador">
-    <h2>Alberto Contador</h2>
+    <h2>Alberto Contador cambio miguel</h2>
     <p>{contador}</p>
     <button on:click={incrementar}>Incrementar</button>
     <button on:click={decrementar}>Decrementar</button>
