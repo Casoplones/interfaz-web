@@ -21,7 +21,7 @@
     .contador {
       text-align: center;
       padding: 1rem;
-      border: 2px solid #333;
+      border: 3px solid green;
       border-radius: 8px;
       width: 400px;
       margin: 1rem auto;
