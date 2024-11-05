@@ -12,6 +12,7 @@
       }
     }
   
+    
     function removeTask(index) {
       tasks = tasks.filter((_, i) => i !== index);
     }
