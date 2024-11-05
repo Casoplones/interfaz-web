@@ -46,18 +46,6 @@
     transform: scale(1.05);
   }
 
-  .overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0, 0, 0, 0.7);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
   .modal-imagen {
     position: relative;
     max-width: 80%;
