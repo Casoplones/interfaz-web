@@ -25,7 +25,7 @@
       border-radius: 8px;
       width: 400px;
       margin: 1rem auto;
-      font-family: Arial, sans-serif;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
   
     button {
