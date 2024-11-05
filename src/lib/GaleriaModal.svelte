@@ -18,20 +18,3 @@
     <img src={image} alt="paisaje" on:click={() => selectedImage = image}/>
   {/each}
 
-<style>
-  img{
-    width: 35%;
-    margin: 1rem;
-  }
-  .modal{
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0,0,0,0.8);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-</style>
