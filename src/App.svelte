@@ -3,6 +3,7 @@
   import Alberto from "./lib/Alberto.svelte";
   import ToogleDarkMode from "./lib/ToogleDarkMode.svelte";
   import ModalWindow from "./lib/ModalWindow.svelte";
+  import GaleriaModal from "./lib/GaleriaModal.svelte";
 
 </script>
 
@@ -10,5 +11,6 @@
 <Alberto />
 <ToogleDarkMode />
 <ModalWindow />
+<GaleriaModal />
 </main>
 
