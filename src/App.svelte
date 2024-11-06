@@ -4,6 +4,7 @@
   import ToogleDarkMode from "./lib/ToogleDarkMode.svelte";
   import ModalWindow from "./lib/ModalWindow.svelte";
   import GaleriaModal from "./lib/GaleriaModal.svelte";
+  import ListaTareas1 from "./lib/listaTareas1.svelte";
 
 </script>
 
@@ -12,5 +13,6 @@
 <ToogleDarkMode />
 <ModalWindow />
 <GaleriaModal />
+<ListaTareas1 />
 </main>
 
