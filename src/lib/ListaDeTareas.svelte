@@ -46,21 +46,28 @@
     list-style: none;
     padding: 0;
   }
-  li {
-    padding: 10px;
-    margin: 5px;
-    border: 1px solid #ccc;
-    background-color: #f9f9f9;
-    color: black;
-  }
   .alta {
+    background-color: lightcyan;
     color: red;
     font-weight: bold;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
   }
   .media {
+    background-color: lightcyan;
     color: orange;
+    font-weight: bold;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
   }
   .baja {
+    background-color: lightcyan;
     color: green;
+    font-weight: bold;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
   }
 </style>
